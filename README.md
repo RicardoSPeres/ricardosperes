@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **automated solutions driven by AI and Robotics**
 
-- 👨‍💻 All of my projects are available at [http://ricardosilvaperes.vercel.app](ricardosilvaperes.vercel.app)
+- 👨‍💻 All of my projects are available at [ricardosilvaperes.vercel.app](http://ricardosilvaperes.vercel.app)
 
 - 📫 How to reach me **ricardosilvaperes91@gmail.com**
 
